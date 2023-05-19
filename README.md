@@ -6,7 +6,7 @@ Free vpn免费节点,不是一般的节点，你可以像VIP一样看视频和�
 所以如果你对质量和安全有要求，你就不要随便去找节点。
 加电报群不失联：https://t.me/+Xiy2uzhmv0VmYmM1
 更多免费白嫖的实用工具、全种类AI工具、还有外面需要收费的所有课程在电报群里自取
-安全高速的节点不宜寻找，如果愿意的话可以给点小费以支持我继续做下去（USDT：TVsiQVaSyP69311BQMSBTjPiCTksg4JjpU）
+安全高速的节点不宜寻找，如果愿意的话可以给点小费以支持我继续做下去，非常感谢！（USDT：TVsiQVaSyP69311BQMSBTjPiCTksg4JjpU）
 
 免费节点（6-10小时自动更换一次）：
 clash：https://sub.id9.cc/sub?target=clash&new_name=true&url=https%3A%2F%2F9527521.xyz%2Fpubconfig%2F4cVsmFJreQC0Uab6&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_AdblockPlus.ini
