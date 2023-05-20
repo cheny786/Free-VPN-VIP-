@@ -9,6 +9,20 @@
 安全高速的节点不宜寻找，如果愿意的话可以给点小费以支持我继续做下去，非常感谢！（USDT：TVsiQVaSyP69311BQMSBTjPiCTksg4JjpU）
 
 免费节点（6-10小时自动更换一次）：
-Clash：https://sub.id9.cc/sub?target=clash&new_name=true&url=https%3A%2F%2F9527521.xyz%2Fpubconfig%2F4cVsmFJreQC0Uab6&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_AdblockPlus.ini
-V2Ray:https://api.dler.io/sub?target=v2ray&url=https%3A%2F%2F9527521.xyz%2Fpubconfig%2F4cVsmFJreQC0Uab6&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_AdblockPlus.ini
-SSR:https://sub.id9.cc/sub?target=ssr&url=https%3A%2F%2F9527521.xyz%2Fpubconfig%2F4cVsmFJreQC0Uab6&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_AdblockPlus.ini
+1️⃣Clash: 
+https://sub.id9.cc/sub?target=clash&new_name=true&url=https%3A%2F%2F9527521.xyz%2Fpubconfig%2FbJev0LiRHEQyfTqw&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_AdblockPlus.ini
+
+2️⃣V2Ray: 
+https://api.dler.io/sub?target=v2ray&url=https%3A%2F%2F9527521.xyz%2Fpubconfig%2FbJev0LiRHEQyfTqw&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_AdblockPlus.ini
+
+3️⃣Shadowrocket: 
+https://sub.maoxiongnet.com/sub?target=ssr&url=https%3A%2F%2F9527521.xyz%2Fpubconfig%2FbJev0LiRHEQyfTqw&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_AdblockPlus.ini
+
+✈️✈️✈️
+1️⃣Clash官网下载: 
+https://github.com/Fndroid/clash_for_windows_pkg/releases
+
+2️⃣V2rayN官网下载: 
+https://github.com/2dust/v2rayN/releases
+
+3️⃣Shadowrocket请去iOS商店下载（小火箭需要海外且已付费过Shadowrocket的ID）如果有需求的问我要ID，免费送
