@@ -10,13 +10,13 @@
 
 免费节点（6-10小时自动更换一次）：
 1️⃣Clash: 
-https://sub.xeton.dev/sub?target=clash&new_name=true&url=https%3A%2F%2F9527521.xyz%2Fpubconfig%2FWxRMCIG24VXyZYwt&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_AdblockPlus.ini
+https://suo.yt/RfympEy
 
 2️⃣V2Ray: 
-https://sub.xeton.dev/sub?target=v2ray&url=https%3A%2F%2F9527521.xyz%2Fpubconfig%2FWxRMCIG24VXyZYwt&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_AdblockPlus.ini
+https://suo.yt/RuIc1Wj
 
 3️⃣Shadowrocket: 
-https://sub.xeton.dev/sub?target=ssr&url=https%3A%2F%2F9527521.xyz%2Fpubconfig%2FWxRMCIG24VXyZYwt&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_AdblockPlus.ini
+https://suo.yt/zZvmxKI
 
 ✈️✈️✈️
 1️⃣Clash官网下载: 
@@ -25,4 +25,6 @@ https://github.com/Fndroid/clash_for_windows_pkg/releases
 2️⃣V2rayN官网下载: 
 https://github.com/2dust/v2rayN/releases
 
-3️⃣Shadowrocket请去iOS商店下载（小火箭需要海外且已付费过Shadowrocket的ID）如果有需求的问我要ID，免费送
+3️⃣Shadowrocket请去iOS商店下载（小火箭需要海外且已付费过Shadowrocket的ID）如果要下载的，进群免费送
+
+群里定期更新海外苹果ID，各种收费版APP都可以免费白嫖
