@@ -9,15 +9,15 @@
 更多免费白嫖的实用工具、全种类AI工具、还有外面需要收费的所有课程在电报群里自取
 安全高速的4K节点不宜寻找，如果愿意的话可以给点小费以支持我继续做下去，非常感谢！（USDT：TVsiQVaSyP69311BQMSBTjPiCTksg4JjpU）
 
-免费节点（6-24小时自动更换一次）：
+免费4K无广告节点（6-24小时自动更换一次）：
 1️⃣Clash: 
-https://suo.yt/4IWrmET 
+https://suo.yt/u1qHBpa  
 
 2️⃣V2Ray: 
-https://suo.yt/lypUxfu
+https://suo.yt/7Qu3Hp5
 
 3️⃣Shadowrocket: 
-https://suo.yt/Io1awQJ
+https://suo.yt/RuRbSzR
 
 ✈️✈️✈️
 1️⃣Clash官网下载: 
