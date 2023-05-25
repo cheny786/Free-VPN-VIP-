@@ -29,3 +29,5 @@ https://github.com/2dust/v2rayN/releases
 3️⃣Shadowrocket请去iOS商店下载（小火箭需要海外且已付费过Shadowrocket的ID）如果要下载的，进群免费送
 
 群里定期更新海外苹果ID，各种收费版APP都可以免费白嫖
+
+#免费节点 #免费高速节点 #科学上网 #翻墙 #免费梯子 #chatgpt #chatgptapp #海外苹果账号 #免费苹果账号 #美区苹果账号  #美区苹果ID #免费苹果ID #小火箭 #免费小火箭 #Shadowrocket  #Clash #V2Rey  #免费机场 #机场 #免费VPN #VPN  #魔法上网 #免费魔法上网 #VPN翻墙 #VPN加速器 #VPN推荐 #免费加速器 #免费的vpn #苹果id #苹果免费VPN #小火箭下载 #小火箭节点 #小火箭加速器 #节点 #v2ray机场 #v2ray节点 #美区id 
