@@ -19,14 +19,25 @@ https://suo.yt/7Qu3Hp5
 3️⃣Shadowrocket: 
 https://suo.yt/RuRbSzR
 
+㊙永久节点订阅：
+Clash新参数:https://suo.yt/iKotP3D
+Clash:https://suo.yt/p8vRN9x
+ClashR:https://suo.yt/cP4llrO
+V2Rey:https://suo.yt/17K01L8
+SS:https://suo.yt/1BI7YQV
+SSR:https://suo.yt/GXd4j5f
+QuantumultX:https://suo.yt/Piex578
+虽然速度比不上商用VIP，但是是独享的节点，还可以访问chatgpt节点，而且永久有效速度也不慢，你可以再也不用花钱买节点订阅了
+
 ✈️✈️✈️
+科学上网客户端下载:
 1️⃣Clash官网下载: 
 https://github.com/Fndroid/clash_for_windows_pkg/releases
 
 2️⃣V2rayN官网下载: 
 https://github.com/2dust/v2rayN/releases
 
-3️⃣Shadowrocket请去iOS商店下载（小火箭需要海外且已付费过Shadowrocket的ID）如果要下载的，进群免费送
+3️⃣Shadowrocket请去IOS商店下载（小火箭需要海外且已付费过Shadowrocket的ID）如果要已购小火箭的苹果ID，进群免费送
 
 群里定期更新海外苹果ID，各种收费版APP都可以免费白嫖
 
