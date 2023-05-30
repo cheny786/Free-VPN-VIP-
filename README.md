@@ -19,13 +19,13 @@
 ✈️✈️✈️
 免费4K无广告节点（6-24小时自动更换一次）：
 以下链接不是要你打开，这些都是节点短链接，直接粘贴到你的客户端URL获取就行(需要开梯子才能链接)
-更新时间：2023年5月30号
+更新时间：2023年5月31号
 1️⃣Clash: 
-https://suo.yt/e8WFXvd
+https://suo.yt/A8irNtM
 
 2️⃣V2Ray: 
-https://suo.yt/lDEjvJ7
-https://suo.yt/nfIdmtW
+https://suo.yt/ri9vBQB
+https://suo.yt/AaNmeuK
 
 3️⃣Shadowrocket: 
 以上都链接可以共用
